@@ -15,6 +15,12 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Tel Aviv!</a>
         </h1>
+        <h1 className={styles.title}>
+          Welcome to <a href="https://nextjs.org">Tel Aviv!</a>
+        </h1>
+        <h1 className={styles.title}>
+          Welcome to <a href="https://nextjs.org">Israel!</a>
+        </h1>
 
         
 
